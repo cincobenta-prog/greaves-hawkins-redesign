@@ -3,3 +3,5 @@
 .file-versions/
 index.html.artifact.json
 .DS_Store
+.vercel
+.env*
